@@ -6,6 +6,8 @@ This is the Rappel Extruder, a Fork of Mobius3.1. It's a dual geared hobbed fila
 
 A Pancake or slightly larger stepper is recommended. Heavily depending on bowden length.
 
+Starting eSTEPs at 1/16 microstepping with a 1.8deg stepper are approximate 571 steps per mm
+
 Our discord server can be found here: https://discord.gg/MzTR3zE
 
 The BOM and Sourcing Guide for this product can be found here: https://docs.google.com/spreadsheets/d/1O3eyVuQ6M4F03MJSDs4Z71_XyNjXL5HFTZr1jsaAtRc/edit?usp=sharing
