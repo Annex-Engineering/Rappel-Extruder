@@ -1,4 +1,4 @@
-# Rappel Extruder - Release 2 - Alpha3
+# Rappel Extruder - Release 2
 
 ![Image of Rappel Extruder](https://github.com/Annex-Engineering/Rappel-Extruder/blob/master/Release2_Alpha3/Renders/Rappel_R2_A3.JPG?raw=true)
 
