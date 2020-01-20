@@ -6,6 +6,8 @@ This is the Rappel Extruder, a Fork of Mobius3.1. It's a dual geared hobbed fila
 
 A Pancake or slightly larger stepper is recommended. Heavily depending on bowden length.
 
+The light gray and green is the standard orientation, the dark gray and green is the mirror orientation (in the cad models)
+
 Starting eSTEPs at 1/16 microstepping with a 1.8deg stepper are approximate 571 steps per mm
 
 Our discord server can be found here: https://discord.gg/MzTR3zE
